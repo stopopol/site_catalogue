@@ -1,0 +1,7 @@
+Title: eLTER Site Catalogue
+License: MIT
+DisplayMode: Normal
+Author: CWO
+AuthorUrl: www.deims.org
+Type: Shiny
+Tags: leaflet selectize datatables absolutepanel
